@@ -1,0 +1,5 @@
+.vagrant/
+.idea/
+*/host_test.txt
+*/centos_test.txt
+.DS_Store
