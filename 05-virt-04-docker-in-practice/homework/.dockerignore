@@ -1,2 +1,5 @@
 pic/
 solution.md
+proxy.yaml
+nginx/
+haproxy/
