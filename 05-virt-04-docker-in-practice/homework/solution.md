@@ -1,25 +1,25 @@
 ### Задание 0
 1. Проверяем что docker-compose не установлен:
-![проверка docker-compose](pic/0_1_1.png)
+![проверка docker-compose](./pic/0_1_1.png)
 <br><br>
 2. Устанавливаем docker пакеты, в т.ч. docker compose по [инструкции](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository).
 <br>
 2.1. Установка официального gpg ключа docker:
-![установка официального gpg ключа docker](pic/0_2_1.png)
+![установка официального gpg ключа docker](./pic/0_2_1.png)
 <br>
 2.2. Установка docker и docker compose:
-![установка docker и docker compose](pic/0_2_2.png)
+![установка docker и docker compose](./pic/0_2_2.png)
 <br>
 2.3. Проверка версии docker:
-![проверка версии docker](pic/0_2_3.png)
+![проверка версии docker](./pic/0_2_3.png)
 <br>
 2.4. Проверка версии docker compose:
-![проверка версии docker compose](pic/0_2_4.png)
+![проверка версии docker compose](./pic/0_2_4.png)
 
 
 ### Задание 1
 1. Выполним в своем github пространстве [fork](https://github.com/VikhlyantsevA/shvirtd-example-python) репозитория с домашкой:
-![fork с домашкой](pic/1_1_1.png)
+![fork с домашкой](./pic/1_1_1.png)
 <br><br>
 2. Создадим файл с именем Dockerfile.python для сборки данного проекта (для 3 задания изучите [документацию](https://docs.docker.com/compose/compose-file/build/))
 следуя рекомендациям:
